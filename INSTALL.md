@@ -43,12 +43,10 @@ cd ~/my-skills && git pull
 | 기획 | 여러 기획 문서 정합성 확인 | `doc-consistency` |
 | 개발 | 커밋 메시지 정리 | `commit-summary` |
 | 개발 | 에러/버그 해결 | `debug-session` |
-| 개발 | 코드 리뷰 및 최적화 | `code-review-optimize` |
 | 개발 | 브랜치 전략 수립 | `git-branch-strategy` |
 | 디자인 | 스타일 가이드 확인/갱신 | `style-guide` |
 | 디자인 | 새 화면 설계 | `screen-design-new` |
 | 디자인 | 기존 화면 검토 | `screen-design-review` |
-| QA | 테스트 전략 수립 | `test-strategy` |
 | 배포 | 배포 전 점검 | `deploy-checklist` |
 | 공통 | 세션 마무리 | `session-handoff` |
 | 공통 | 문서 서식/변환 | `doc-polish` |
